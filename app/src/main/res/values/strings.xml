@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Tema2Android</string>
+    <string name="add">Add</string>
+    <string name="nume_pacient">Nume pacient</string>
+    <string name="varsta_pacient">Varsta pacient</string>
+    <string name="domiciliu_pacient">Domiciliu pacient</string>
+    <string name="rezultat_test">Rezultat test</string>
+    <string name="defaultValue">-</string>
+    <string name="denumire_centru">Denumire centru</string>
+    <string name="numar_telefon_centru">Numar telefon centru</string>
+    <string name="capacitate_centru">Capacitate centru</string>
+    <string name="save">Save</string>
+    <string name="locatie_centru">Locatie centru</string>
+    <string name="denumire_centru_error">Denumire centru invalida</string>
+    <string name="locatie_centru_error">Locatie centru invalida</string>
+    <string name="numar_telefon_centru_error">Numar telefon invalid</string>
+    <string name="lista_centre">Lista centre</string>
+    <string name="adauga">Adauga</string>
+    <string name="centru_adaugat">Centru a fost adaugat</string>
+    <string name="lv_row_no_content">-</string>
+    <string name="main_centru_adaugat">Centru adaugat</string>
+    <string name="lv_expense_row_default_value">-</string>
+
+    <string name="add_chart_alert">Add chart alert</string>
+    <string name="chart_generation_alert_title">Generare grafic</string>
+
+    <string name="chart_generation_alert_message">Sigur vrei sa generezi graficul?</string>
+
+    <string name="chart_generation_alert_positive_button">Yes</string>
+
+    <string name="chart_generation_alert_negative_button">No</string>
+
+    <string name="chart_generation_alert_quit">Utilizatorul a renuntat!</string>
+    <string name="add_chart">Add chart</string>
+
+    <string name="chart_legend_template">%1$s - %2$d</string>
+    <string name="chart_pacient">Chart pacient</string>
+
+</resources>
